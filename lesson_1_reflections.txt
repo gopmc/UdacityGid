@@ -1,0 +1,16 @@
+Automatisk sammenligning af kode finder hurtigere forskelle. Kommando linje værktøjerne mangler dog farvemarkering af f.eks. ord. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+- Go back after experimentation/errors.
+- Working in different directions from previous verisons
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+- Automatic saving will give a large number of comits, including non working code
+- Manually may be long apart, but will have working code. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git is use for code while Google docs are for documents. 
+
+How can you use the commands git log and git diff to view the history of files?
+git log shows when things were changed with a description
+git diff shows what was changed between two commits
