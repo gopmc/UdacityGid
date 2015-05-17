@@ -9,3 +9,6 @@ The commit structure is like a tree. The tree diagram shows the structure of the
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The code merges into one line and the diagram shows the two paths merge. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- Automatic merges ensures that all changes are included from the involved files. Manually mergin may miss changes.
